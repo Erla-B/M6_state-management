@@ -1,0 +1,38 @@
+.App {
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+    font-size: large;
+  }
+
+.component {
+    padding: 10px;
+}
+
+.component-name {
+    font-weight: 600;
+    margin-right: 10px;
+}
+
+.count {
+    margin-right: 10px;
+}
+
+.button {
+    margin: 5px;
+}
+
+.button-increase {
+    background-color: red;
+    color: white;
+}
+
+.button-decrease {
+    background-color: green;
+    color: white;
+}
+
+.button-reset {
+    background-color: rgb(67, 67, 67);
+    color: white;
+}
