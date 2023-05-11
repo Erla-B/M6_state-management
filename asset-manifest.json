@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/M6_state-management/static/css/main.d283ef2d.css",
+    "main.js": "/M6_state-management/static/js/main.ceab48ea.js",
+    "index.html": "/M6_state-management/index.html",
+    "main.d283ef2d.css.map": "/M6_state-management/static/css/main.d283ef2d.css.map",
+    "main.ceab48ea.js.map": "/M6_state-management/static/js/main.ceab48ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d283ef2d.css",
+    "static/js/main.ceab48ea.js"
+  ]
+}
